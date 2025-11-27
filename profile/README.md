@@ -90,8 +90,8 @@ By combining clinical insight with shared tooling, we can dramatically improve h
 ## 🏗 Contributing
 
 Interested in contributing? Start by reading:
-* 🛠 **CONTRIBUTING.md** — how to set up your environment, submit PRs, and follow coding standards
-* 📜 **CODE_OF_CONDUCT.md** — guidelines for community behavior
+* 🛠 [**CONTRIBUTING.md**](https://github.com/Moberg-Analytics/.github/blob/main/CONTRIBUTING.md) — how to set up your environment, submit PRs, and follow coding standards
+* 📜 [**CODE_OF_CONDUCT.md**](https://github.com/Moberg-Analytics/.github/blob/main/CODE_OF_CONDUCT.md) — guidelines for community behavior
 * 🐛 **Issues** — active tasks, bugs, and feature requests
 
 We maintain “good first issue” tags for newcomers.
