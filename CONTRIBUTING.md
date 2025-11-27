@@ -11,14 +11,14 @@ We welcome contributions of all kinds — code, documentation, notebooks, testin
 
 # 🧭 Table of Contents
 
-1. [Ways to Contribute](#ways-to-contribute)
-2. [Before You Begin](#before-you-begin)
-3. [Getting Started](#getting-started)
-4. [Development Workflow](#development-workflow)
-5. [Style Guidelines](#style-guidelines)
-6. [Submitting Pull Requests](#submitting-pull-requests)
-7. [Reporting Issues](#reporting-issues)
-8. [Community & Support](#community--support)
+1. Ways to Contribute
+2. Before You Begin
+3. Getting Started
+4. Development Workflow
+5. Style Guidelines
+6. Submitting Pull Requests
+7. Reporting Issues
+8. Community & Support
 
 ---
 
