@@ -70,10 +70,11 @@ Additional repos are added as new tools mature.
 Our upcoming community goals:
 * Build a shared open-source framework for multimodal physiologic analysis
 * Standardize multimodal signal processing feature extraction pipelines
-* Provide robust event detection libraries for critical-care research
+* Provide robust event detection libraries for critical care research
 * Publish high-quality example workflows and teaching materials
 * Enable interoperability across physiologic data formats and systems
-* Develop APIs and dashboards for real-time or near-real-time use cases
+* Develop APIs for real-time or near-real-time use cases
+* Integrate into bedside systems for research
 
 Have ideas for the roadmap? Propose them in Issues or on Discord.
 
